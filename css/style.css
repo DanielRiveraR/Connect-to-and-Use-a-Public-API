@@ -69,6 +69,7 @@
 
   .hidden {
       display: none;
+      position: fixed;
   }
   
   /* button {
@@ -86,12 +87,12 @@
   }
   button:hover {
     cursor: pointer;
-  }
+  } */
 
   .overlay {
     position: fixed;
     background: #828282;
-  } */
+  }
 
 
 
