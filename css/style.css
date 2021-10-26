@@ -86,7 +86,7 @@
     width: 420px;
     position: relative;
     text-align: center;
-    margin: 15% auto auto;
+    margin: 6% auto auto;
     background: #fff;
     border: 1px solid #778;
     border-radius: 5px;
@@ -95,8 +95,8 @@
 
   .window-closer {
     position: absolute;
-    right: 15px;
-    top: 5px;
+    right: 20px;
+    top: 15px;
     cursor: pointer;
   }
   
@@ -135,7 +135,7 @@
     width: 100%;
     border-radius: 4px 0 0 4px;
     border: 1px solid rgb(170, 170, 170);
-    padding: 10px 16px;
+    /* padding: 10px 16px; */
     font-size: 14px;
   }
   
@@ -147,7 +147,7 @@
     cursor: pointer;
     width: 55px;
     border-radius: 0 4px 4px 0;
-    border: 1px solid #1e90ff;
+    border: 1px solid rgb(170, 170, 170);;
     border-left: none;
     padding: 0px 5px;
     font-size: 14px;
